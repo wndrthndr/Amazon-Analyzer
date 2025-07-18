@@ -26,8 +26,10 @@ pip install -r requirements.txt
 
 
 3.**Usage**:
-  1.To scrape data : python amazon_sponsor_scraper.py
-  2. To clean and analyse data : python clean_amazon_data.py
+
+3.1.To scrape data : python amazon_sponsor_scraper.py
+
+3.2. To clean and analyse data : python clean_amazon_data.py
 
 4:**Output**:
  ### 🔝 Top Brands by Frequency
