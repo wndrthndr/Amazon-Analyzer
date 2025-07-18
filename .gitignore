@@ -20,3 +20,4 @@ env/
 # CSV / Output Data
 *.csv
 *.xlsx
+*.png
