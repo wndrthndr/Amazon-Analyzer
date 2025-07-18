@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv/
+
+# CSV / Output Data
+*.csv
+*.xlsx
