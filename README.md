@@ -33,16 +33,16 @@ pip install -r requirements.txt
 
 4:**Output**:
  ### 🔝 Top Brands by Frequency
-![Top Brands](brand_frequency_bar.png)
+![Top Brands](plots/brand_frequency_bar.png)
  ### Brand Share 
- ![Top Brands](brand_share_pie.png)
+ ![Top Brands](plots/brand_share_pie.png)
 
 ### 💸 Price vs Rating
-![Price vs Rating](price_vs_rating_scatter.png)
+![Price vs Rating](plots/price_vs_rating_scatter.png)
 
 ### 🌟 Most Reviewed Products
-![Top Reviews](top_products_by_reviews.png)
-![Top Reviews](top_products_by_rating.png)
+![Top Reviews](plots/top_products_by_reviews.png)
+![Top Reviews](plots/top_products_by_rating.png)
 
 
 
