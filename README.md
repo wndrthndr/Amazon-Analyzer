@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ### 🌟 Most Reviewed Products
 ![Top Reviews](top_products_by_reviews.png)
-![Top Reviews](top_products_by_reating.png)
+![Top Reviews](top_products_by_rating.png)
 
 
 
